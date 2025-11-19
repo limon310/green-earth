@@ -5,12 +5,13 @@ A sustainable environment-focused project designed to spread awareness, promote 
 ---
 
 ## 📌 Project Overview
-The **Green Earth Project** aims to create tools, content, or applications that inspire people to take action toward environmental conservation. This includes:
-- Reducing pollution
-- Encouraging recycling
-- Planting trees
-- Saving energy and water
-- Understanding climate change
+The **Green Earth Project** is a practice-based web project built using vanilla JavaScript, HTML, and TailwindCSS. It focuses on simple UI interaction and dynamic data handling using fake JSON data. The project includes:
+- A single homepage (no routing)
+- Displaying cards generated from fake JSON data
+- Adding selected cards and their prices to a cart section
+- Removing items from the cart dynamically when the user deletes them
+
+This project is mainly created for practicing DOM manipulation, event handling, JSON rendering, and cart functionality.
 
 ---
 
@@ -26,14 +27,12 @@ The **Green Earth Project** aims to create tools, content, or applications that 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS (TailwindCSS), Vanilla JavaScript
 - **Tools:** Git, GitHub
-## Deploy
--cloudeflire, netlify
 
 ---
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/limon310/green-earth.git
+git clone https://github.com/your-username/green-earth.git
 cd green-earth
 npm install
 npm start
@@ -67,5 +66,6 @@ This project is licensed under the MIT License.
 If you like this project, give it a ⭐ on GitHub and share it with others to help protect our planet.
 
 > *"The greatest threat to our planet is the belief that someone else will save it."*
->
-> Live Link: [ https://green-earth-e3g.pages.dev]
+---
+email: mdlimonislam134@gmail.com
+Live Link: [green-earth-e3g.pages.dev]
