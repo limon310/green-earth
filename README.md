@@ -32,7 +32,7 @@ This project is mainly created for practicing DOM manipulation, event handling, 
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/your-username/green-earth.git
+git clone https://github.com/limon310/green-earth
 cd green-earth
 npm install
 npm start
